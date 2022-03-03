@@ -3,7 +3,7 @@
 Antes de iniciar a trabajar: 
 
 
-* **Sólo una persona de cada equipo debe darle click a la liga** que está indicada en la publicación del *google classroom*. Una vez que le dé click a la liga tal persona **invite** a sus integrantes de su equipo como **Admin**. Para invitar a su integrante ir dentro del repo a Settings -> Manage Access y enviar la invitación ingresando user de github de su integrante.
+* **Sólo una persona de cada equipo debe darle click a la liga** que está indicada en la publicación de canvas. Una vez que le dé click a la liga tal persona **invite** a sus integrantes de su equipo como **Admin**. Para invitar a su integrante ir dentro del repo a Settings -> Manage Access y enviar la invitación ingresando user de github de su integrante.
     
 
 # Instrucciones
